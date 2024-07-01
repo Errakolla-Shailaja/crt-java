@@ -1,0 +1,9 @@
+import java.util.*;
+class Hello{
+    public static void main(String[] args) {
+        Scanner s=new Scanner(System.in);
+        String s1="Java is Simple Language";
+        System.out.println(s1.toUpperCase());
+        System.out.println(s1.toLowerCase());
+        }
+    }
